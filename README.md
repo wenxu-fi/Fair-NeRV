@@ -1,7 +1,7 @@
 # Fair-NeRV
 This repository contains codes for the experiments and algorithms Fair-NeRV/Fair-t-NeRV from the paper "Fair Neighbor Embedding" by Jaakko Peltonen, Wen Xu, Timo Nummenmaa and Jyrki Nummenmaa. The Fourtieth International Conference on Machine Learning (ICML 2023). Please cite this paper if you use the code.
 
-All codes in this project are contributed and maintained by Wen Xu and Jaakko Peltonen. For questions, you may contact Wen Xu at wenxupine@gmail.com or Jaakko Peltonen at jaakko.peltonen@tuni.fi.
+All codes in this project are contributed and maintained by Wen Xu and Jaakko Peltonen. For questions, you may contact Wen Xu at wen.xu@tuni.fi/ wenxupine@gmail.com or Jaakko Peltonen at jaakko.peltonen@tuni.fi.
 
 The implementations are in matlab with some parts in c++ for efficiency.
 
