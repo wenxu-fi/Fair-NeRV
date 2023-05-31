@@ -25,6 +25,6 @@ method="fnerv";
 fnerv_opt=optimization_fnervF(X,classes,num_dims,method,tradeoff_intra,tradeoff_inter,beta,gamma,niters,learningrate,exaggeration,coeffi,rng_seed);
 
 
-For how we train 5 rounds of 3600 parameters settings of training data,  find fairnes scale threshold (stable_k) and corresponding f1, f1_avg of ,find the best parameters, with which embedding has maximum f1_avg, using thoses best parameters to run on test data set and get f1 and f1_avg for all methods, please see syn_summary.m (this file works on synthetic data). For other real datasets, implementations are similar, for example adult.summary, pima_summary. The file that includes commputation of fairness scale threshold k_fair ,f1_k, f1_avg is stable_k_softf1_average_Fun.m.
+
 
 
